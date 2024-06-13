@@ -1,16 +1,27 @@
-# Hi there 👋
-###### Hi there
-<!--
-**mdrashed62/mdrashed62** is  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm [Md Rashed], a passionate Web Developer and a dedicated Computer Science and Engineering student at City University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 **Education**: Currently pursuing my Bachelor's degree in Computer Science and Engineering (CSE) at City University.
+- 
+- 💻 **Web Development**: I have a strong interest in web development, with experience in building responsive and dynamic web applications using technologies like HTML, 
+                           CSS, JavaScript, React, Node.js, express.js, MongoDB, Firebase, Vercel and more.
+- 🚀 **Projects**: I enjoy working on both personal and collaborative projects. Check out my repositories to see some of the work I've done.
+
+## Skills
+- **Front-end Development**: HTML, CSS, JavaScript, React,
+- **Back-end Development**: Node.js, Express, MongoDB, Context API
+- **Tools and Platforms**: Git, GitHub, VS Code, npm, Webpack, Firebase, Vercel
+
+## Get in Touch
+- 📫 **Email**: [mdrashedbiswas83@gmail.com]
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/rashed83)
+- 🌐 **Portfolio**: [Comming soon]
+
+Feel free to reach out to me for collaboration, project inquiries, or just to connect. I'm always open to learning new things and taking on exciting challenges!
+
+---
+
+⭐️ From [Md Rashed Biswas] (https://github.com/mdrashed62)
+
