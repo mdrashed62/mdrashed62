@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm [Md Rashed], a passionate Web Developer and a dedicated Computer Science and Engineering student at City University.
+# I'm Rashed, a passionate Web Developer and a dedicated Computer Science and Engineering student at City University.
 
 ## About Me
 - 🎓 **Education**: Currently pursuing my Bachelor's degree in Computer Science and Engineering (CSE) at City University.
