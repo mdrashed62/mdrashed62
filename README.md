@@ -1,4 +1,4 @@
-# Hi this is Rashed! 👋
+# Hello 👋
 
 I'm [Md Rashed], a passionate Web Developer and a dedicated Computer Science and Engineering student at City University.
 
@@ -23,5 +23,5 @@ Feel free to reach out to me for collaboration, project inquiries, or just to co
 
 ---
 
-⭐️ From [Md Rashed Biswas] (https://github.com/mdrashed62)
+⭐️ From Md Rashed Biswas (https://github.com/mdrashed62)
 
