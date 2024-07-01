@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi this is Rashed! 👋
 
 I'm [Md Rashed], a passionate Web Developer and a dedicated Computer Science and Engineering student at City University.
 
