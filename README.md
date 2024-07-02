@@ -77,7 +77,9 @@ A passionate web developer and current student at City University (BD), pursuing
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashed62)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ## :chart_with_upwards_trend: Current Stats:
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdrashed62) 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdrashed62&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p> 
 <br>
 ## Github Current Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrashed62&show_icons=true&count_private=true)
