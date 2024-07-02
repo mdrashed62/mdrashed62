@@ -80,9 +80,6 @@ A passionate web developer and current student at City University (BD), pursuing
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrashed62&show_icons=true&count_private=true)  
 <br>
 ## :chart_with_upwards_trend: Current Stats
-
-<br />
-## GitHub streak stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdrashed62) 
 
 
