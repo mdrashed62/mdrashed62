@@ -56,7 +56,7 @@ A passionate web developer and current student at City University (BD), pursuing
 
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mdrashed62" target="_blank" rel="noreferrer">
     <img height="75" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github"/>
   </a>
