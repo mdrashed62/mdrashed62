@@ -5,7 +5,7 @@
 
 ## About Me:
 A passionate web developer and current student at City University (BD), pursuing a degree in Computer Science and Engineering. With a strong foundation in the MERN stack and a particular expertise in React, I am dedicated to building innovative and efficient web solutions.
-
+<br>
 ## :computer: Technologies that I know:
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -46,7 +46,7 @@ A passionate web developer and current student at City University (BD), pursuing
   <br>
  
 
-
+## Current overview:
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Javascript and Python 
 - 👯 I’m looking to collaborate on Github 
