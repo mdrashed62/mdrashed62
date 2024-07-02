@@ -52,7 +52,24 @@ A passionate web developer and current student at City University (BD), pursuing
 - 👯 I’m looking to collaborate on Github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdrashed62)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashed83/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/itsmdrashed)  
+## :mailbox: Reach me out
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/mdrashed62" target="_blank" rel="noreferrer">
+    <img height="75" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rashed83/" target="_blank" rel="noreferrer">
+    <img height="75" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"/>
+  </a>
+  <a href="https://www.facebook.com/itsmdrashed" target="_blank" rel="noreferrer">
+    <img height="75" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook"/>
+  </a>
+</p>
+
+<br />
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrashed62)](https://github.com/ryo-ma/github-profile-trophy)
 
