@@ -70,13 +70,16 @@ A passionate web developer and current student at City University (BD), pursuing
 
 <br />
 
-
+## Github Awards:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrashed62)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br>
+## Used Languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashed62)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+## :chart_with_upwards_trend: Current Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrashed62&show_icons=true&count_private=true)  
-
+<br>
+## GitHub streak stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdrashed62)  
 
 
