@@ -1,7 +1,7 @@
 # Hi, I'm Rashed
 ## Web Developer
 ### My-Workshop,
-![Web Developer](https://media.licdn.com/dms/image/D4D12AQHWjlf6CXDezA/article-cover_image-shrink_720_1280/0/1698039213268?e=2147483647&v=beta&t=9d8VyULomdIk9zkz_U9N_TE4_pUdFq1dFCglRh8fv_o)
+![Web Developer](https://i.postimg.cc/13fkSqTy/itsMe.jpg)
 
 ## About Me:
 A passionate web developer and current student at City University (BD), pursuing a degree in Computer Science and Engineering. With a strong foundation in the MERN stack and a particular expertise in React, I am dedicated to building innovative and efficient web solutions.
